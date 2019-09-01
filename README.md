@@ -1,6 +1,6 @@
 # 01-Introduction
 
-Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
+The code asks a yes or no question and then you can type a response and the code will give you an apporite answer.
 
 Write a Python program that displays answers to the following questions:
 
